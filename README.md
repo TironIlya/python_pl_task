@@ -1,3 +1,3 @@
-Task for Performance Lab
-Done by TIRON ILYA
-Python
+Task for Performance Lab.
+Done by TIRON ILYA.
+Python.
